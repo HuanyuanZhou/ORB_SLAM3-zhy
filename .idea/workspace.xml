@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="ORB_SLAM3" targetName="g2o" />
+      <config projectName="ORB_SLAM3" targetName="stereo_tum_vi" />
+      <config projectName="ORB_SLAM3" targetName="stereo_inertial_tum_vi" />
+      <config projectName="ORB_SLAM3" targetName="stereo_euroc" />
+      <config projectName="ORB_SLAM3" targetName="rgbd_tum" />
+      <config projectName="ORB_SLAM3" targetName="mono_euroc" />
+      <config projectName="ORB_SLAM3" targetName="ORB_SLAM3" />
+      <config projectName="ORB_SLAM3" targetName="mono_inertial_euroc" />
+      <config projectName="ORB_SLAM3" targetName="stereo_inertial_euroc" />
+      <config projectName="ORB_SLAM3" targetName="mono_tum_vi" />
+      <config projectName="ORB_SLAM3" targetName="mono_tum" />
+      <config projectName="ORB_SLAM3" targetName="stereo_kitti" />
+      <config projectName="ORB_SLAM3" targetName="mono_kitti" />
+      <config projectName="ORB_SLAM3" targetName="mono_inertial_tum_vi" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e744ea15-e99d-4d4c-a89c-ed4809ee6a0d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1hJM9K9LvPttEDPfB7LOMpYrkfZ" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/results" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.mono_euroc">
+    <configuration name="ORB_SLAM3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ORB_SLAM3" TARGET_NAME="ORB_SLAM3" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="g2o" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ORB_SLAM3" TARGET_NAME="g2o" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mono_euroc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ORB_SLAM3" TARGET_NAME="mono_euroc" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ORB_SLAM3" RUN_TARGET_NAME="mono_euroc">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mono_inertial_euroc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ORB_SLAM3" TARGET_NAME="mono_inertial_euroc" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ORB_SLAM3" RUN_TARGET_NAME="mono_inertial_euroc">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mono_inertial_tum_vi" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ORB_SLAM3" TARGET_NAME="mono_inertial_tum_vi" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ORB_SLAM3" RUN_TARGET_NAME="mono_inertial_tum_vi">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mono_kitti" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ORB_SLAM3" TARGET_NAME="mono_kitti" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ORB_SLAM3" RUN_TARGET_NAME="mono_kitti">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mono_tum" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ORB_SLAM3" TARGET_NAME="mono_tum" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ORB_SLAM3" RUN_TARGET_NAME="mono_tum">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mono_tum_vi" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ORB_SLAM3" TARGET_NAME="mono_tum_vi" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ORB_SLAM3" RUN_TARGET_NAME="mono_tum_vi">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rgbd_tum" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ORB_SLAM3" TARGET_NAME="rgbd_tum" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ORB_SLAM3" RUN_TARGET_NAME="rgbd_tum">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stereo_euroc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ORB_SLAM3" TARGET_NAME="stereo_euroc" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ORB_SLAM3" RUN_TARGET_NAME="stereo_euroc">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stereo_inertial_euroc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ORB_SLAM3" TARGET_NAME="stereo_inertial_euroc" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ORB_SLAM3" RUN_TARGET_NAME="stereo_inertial_euroc">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stereo_inertial_tum_vi" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ORB_SLAM3" TARGET_NAME="stereo_inertial_tum_vi" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ORB_SLAM3" RUN_TARGET_NAME="stereo_inertial_tum_vi">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stereo_kitti" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ORB_SLAM3" TARGET_NAME="stereo_kitti" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ORB_SLAM3" RUN_TARGET_NAME="stereo_kitti">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stereo_tum_vi" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ORB_SLAM3" TARGET_NAME="stereo_tum_vi" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ORB_SLAM3" RUN_TARGET_NAME="stereo_tum_vi">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.mono_euroc" />
+      <item itemvalue="CMake Application.mono_inertial_euroc" />
+      <item itemvalue="CMake Application.mono_inertial_tum_vi" />
+      <item itemvalue="CMake Application.mono_kitti" />
+      <item itemvalue="CMake Application.mono_tum" />
+      <item itemvalue="CMake Application.mono_tum_vi" />
+      <item itemvalue="CMake Application.ORB_SLAM3" />
+      <item itemvalue="CMake Application.rgbd_tum" />
+      <item itemvalue="CMake Application.stereo_euroc" />
+      <item itemvalue="CMake Application.stereo_inertial_euroc" />
+      <item itemvalue="CMake Application.stereo_inertial_tum_vi" />
+      <item itemvalue="CMake Application.stereo_kitti" />
+      <item itemvalue="CMake Application.stereo_tum_vi" />
+      <item itemvalue="CMake Application.g2o" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e744ea15-e99d-4d4c-a89c-ed4809ee6a0d" name="Default Changelist" comment="" />
+      <created>1599724588085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599724588085</updated>
+      <workItem from="1599724589140" duration="145000" />
+      <workItem from="1599724807049" duration="2496000" />
+      <workItem from="1600161033134" duration="882000" />
+      <workItem from="1600168590655" duration="4915000" />
+      <workItem from="1600322888728" duration="24129000" />
+      <workItem from="1600410001754" duration="9772000" />
+      <workItem from="1600483485095" duration="4934000" />
+      <workItem from="1600495334831" duration="1314000" />
+      <workItem from="1600520858071" duration="595000" />
+      <workItem from="1600594095549" duration="12698000" />
+      <workItem from="1600656766515" duration="7684000" />
+      <workItem from="1600678682589" duration="13000" />
+      <workItem from="1600678709471" duration="18000" />
+      <workItem from="1600678746425" duration="85000" />
+      <workItem from="1600678950622" duration="7000" />
+      <workItem from="1600679085214" duration="6000" />
+      <workItem from="1600679105495" duration="176000" />
+      <workItem from="1600756491122" duration="1917000" />
+      <workItem from="1600918406531" duration="3682000" />
+      <workItem from="1601258686290" duration="2986000" />
+      <workItem from="1601277922011" duration="246000" />
+      <workItem from="1601292292118" duration="314000" />
+      <workItem from="1602314180158" duration="5558000" />
+      <workItem from="1602333476340" duration="564000" />
+      <workItem from="1602491623765" duration="1352000" />
+      <workItem from="1602570837868" duration="162000" />
+      <workItem from="1602742490755" duration="2694000" />
+      <workItem from="1603074575216" duration="4809000" />
+      <workItem from="1603088148209" duration="2387000" />
+      <workItem from="1603260096597" duration="1038000" />
+      <workItem from="1603261944846" duration="814000" />
+      <workItem from="1603265296797" duration="1687000" />
+      <workItem from="1603781886496" duration="179000" />
+      <workItem from="1603782079748" duration="249000" />
+      <workItem from="1603782389665" duration="14492000" />
+      <workItem from="1603808764174" duration="1055000" />
+      <workItem from="1603848484054" duration="8746000" />
+      <workItem from="1603943355283" duration="1363000" />
+      <workItem from="1603953850754" duration="949000" />
+      <workItem from="1603954829527" duration="668000" />
+      <workItem from="1603957697465" duration="3355000" />
+      <workItem from="1604401904373" duration="1847000" />
+      <workItem from="1604453985939" duration="21000" />
+      <workItem from="1604456961876" duration="1238000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
